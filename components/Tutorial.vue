@@ -8,7 +8,7 @@
       rel="stylesheet"
     />
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
-      <div class="flex justify-center">
+      <div class="flex justify-center mt-8">
         <a
           href="https://aws.amazon.com/jp/amplify/"
           target="_blank"

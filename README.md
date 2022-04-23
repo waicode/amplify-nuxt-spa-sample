@@ -1,6 +1,8 @@
+# amplify-nuxt-spa-sample
+
 ![amplify-nuxt-spa-sample](https://main.d2elhmbkojzkli.amplifyapp.com/amplify-nuxt-spa-sample.png "amplify-nuxt-spa-sample")
 
-https://main.d2elhmbkojzkli.amplifyapp.com/
+<https://main.d2elhmbkojzkli.amplifyapp.com/>
 
 * Nuxtアプリケーション（SPAモード）をAWSの`Amplify Console`（以下、Amplify）でデプロイするためのサンプルです
 
