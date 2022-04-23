@@ -8,42 +8,41 @@
       rel="stylesheet"
     />
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
-      <div class="flex justify-center mt-8">
-        <a
-          href="https://aws.amazon.com/jp/amplify/"
-          target="_blank"
-          rel="nofollow noopener"
+      <a
+        class="flex justify-center pt-8 sm:pt-0"
+        href="https://aws.amazon.com/jp/amplify/"
+        target="_blank"
+        rel="nofollow noopener"
+      >
+        <svg
+          width="86"
+          height="64"
+          viewBox="0 0 256 191"
+          version="1.1"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          preserveAspectRatio="xMidYMid"
         >
-          <svg
-            width="86"
-            height="64"
-            viewBox="0 0 256 191"
-            version="1.1"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            preserveAspectRatio="xMidYMid"
-          >
-            <defs>
-              <linearGradient
-                id="amplify-linear-gradient"
-                x1="100%"
-                y1="22.1718317%"
-                x2="0%"
-                y2="77.8281683%"
-              >
-                <stop stop-color="#FF9900" offset="0%"></stop>
-                <stop stop-color="#FFC300" offset="100%"></stop>
-              </linearGradient>
-            </defs>
-            <g>
-              <path
-                d="M55.7091852,158.47619 L127.815882,158.47619 L146.285714,190.984127 L145.765368,190.984127 L0,190.984127 L51.3642878,101.977675 L72.8892597,64.7056839 L91.3696717,96.728228 L55.7091852,158.47619 Z M82.6014712,47.8501573 L100.345402,17.1043291 L200.765899,190.983604 L165.203074,190.983604 L82.6014712,47.8501573 Z M110.221481,0 L145.736961,0 L256,190.984127 L220.439804,190.984127 L110.221481,0 Z"
-                fill="url(#amplify-linear-gradient)"
-              ></path>
-            </g>
-          </svg>
-        </a>
-      </div>
+          <defs>
+            <linearGradient
+              id="amplify-linear-gradient"
+              x1="100%"
+              y1="22.1718317%"
+              x2="0%"
+              y2="77.8281683%"
+            >
+              <stop stop-color="#FF9900" offset="0%"></stop>
+              <stop stop-color="#FFC300" offset="100%"></stop>
+            </linearGradient>
+          </defs>
+          <g>
+            <path
+              d="M55.7091852,158.47619 L127.815882,158.47619 L146.285714,190.984127 L145.765368,190.984127 L0,190.984127 L51.3642878,101.977675 L72.8892597,64.7056839 L91.3696717,96.728228 L55.7091852,158.47619 Z M82.6014712,47.8501573 L100.345402,17.1043291 L200.765899,190.983604 L165.203074,190.983604 L82.6014712,47.8501573 Z M110.221481,0 L145.736961,0 L256,190.984127 L220.439804,190.984127 L110.221481,0 Z"
+              fill="url(#amplify-linear-gradient)"
+            ></path>
+          </g>
+        </svg>
+      </a>
       <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
         <p class="mt-3 text-gray-600">
           このNuxtアプリケーションはSPAモードで<a
