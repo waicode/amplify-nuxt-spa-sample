@@ -1,4 +1,4 @@
-![mujiota.com](https://main.d2elhmbkojzkli.amplifyapp.com/amplify-nuxt-spa-sample.png "amplify-nuxt-spa-sample")
+![amplify-nuxt-spa-sample](https://main.d2elhmbkojzkli.amplifyapp.com/amplify-nuxt-spa-sample.png "amplify-nuxt-spa-sample")
 
 https://main.d2elhmbkojzkli.amplifyapp.com/
 
