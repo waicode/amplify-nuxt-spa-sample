@@ -73,7 +73,7 @@
         </ul>
         <p class="mt-4 pt-4 text-gray-800 border-t border-dashed">
           より詳しく知りたい方は<a
-            href="hhttps://github.com/waicode/amplify-nuxt-spa-sampl"
+            href="https://github.com/waicode/amplify-nuxt-spa-sampl"
             target="_blank"
             rel="nofollow noopener"
             class="button--doc text-green-500 hover:underline"
